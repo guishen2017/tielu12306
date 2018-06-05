@@ -1,7 +1,7 @@
 user = "你的账号"
 password = "你的密码"
-from_station = "广州"
-to_station = '普宁'
+from_station = "出发地"
+to_station = "目的地"
 trian_date = "你要出行的日期"#2018-06-05
 purpose_codes = 'ADULT'
 
